@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/topdev0528"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:danielsmith00528@gmail.com"
+        }
+    ]
+}

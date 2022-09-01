@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "Backend Developer",
+            "subtitle": "Evistep LLC",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked here mainly as a JavaScript developer with React, Angular and Vue on several e-commerce websites. Have developed admin panels and dashboards with rich functions."
+            ],
+            "dateText": "06/2019 – 11/2021"
+        },
+        {
+            "title": "MERN Stack Developer",
+            "subtitle": "IT Solutions LLC",
+            "workType": "Freelance",
+            "workDescription": [
+                "I worked on projects on these technologies Node.js, react.js, angular, express.js, Mongodb"
+            ],
+            "dateText": "02/2017 – 011/2017"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Suffescom Solutions",
+            "workType": "Freelance",
+            "workDescription": [
+                "I worked on projects on these technologies Node.js, react.js, angular, express.js, Mongodb, AWS"
+            ],
+            "dateText": "09/2015 – 04/2016"
+        }
+    ]
+}

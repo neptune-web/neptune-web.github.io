@@ -1,0 +1,136 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/basis1.png",
+            "title": "Basis",
+            "bodyText": "- Merchant and Patient Loan Website made in React",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/HelloBasis"
+                }
+            ],
+            "tags" : [
+                "React",
+                "TypeScript"
+            ]
+        },
+        {
+            "image" : "images/projects/wizard-view2.png",
+            "title": "Wizard View",
+            "bodyText": "- Data analyst web app.\n - using React and .NET.",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/elliot/WizardView"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Data analyst",
+                ".NET"
+            ]
+        },
+        {
+            "image" : "images/projects/find-a-farm2.png",
+            "title": "Find a Farm",
+            "bodyText": "- Farm Manage web app made using *.NET* and *React.js*.",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/elliot/find-a-farm"
+                }
+            ],
+            "tags" : [
+                "React",
+                ".NET",
+                "ASP.NET"
+            ]
+        },
+        {
+            "title": "Secure Chat App",
+            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/topdev0528/SecureChatApp"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Firebase",
+                "RSA"
+            ]
+        },
+        {
+            "title": "Image Encryption/Decryption",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/topdev0528/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "SDES",
+                "Cryptography"
+            ]
+        },
+        {
+            "title": "MVVM Sample App",
+            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/topdev0528/mvvm-sample-app"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        },
+        {
+            "title": "Feed List App",
+            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/topdev0528/Paginated-App-Feeds-List"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Paging 3",
+                "Coroutines",
+                "Flow"
+            ]
+        },
+        {
+            "title": "Task Tracker",
+            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/topdev0528/task-tracker-app"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
+        }
+    ]
+}
