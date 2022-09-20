@@ -16,6 +16,22 @@
             ]
         },
         {
+            "image" : "images/projects/jewelry-landing.png",
+            "title": "Jewelry CG",
+            "bodyText": "- The world's preferred source for Jewelry CG content\n - Tech stack - Laravel, MySQL\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/topdev0528/Jewelrycg-Laravel.git"
+                }
+            ],
+            "tags" : [
+                "Laravel",
+                "JavaScript",
+                "MySQL"
+            ]
+        },
+        {
             "image" : "images/projects/wizard-view2.png",
             "title": "Wizard View",
             "bodyText": "- Data analyst web app.\n - using React and .NET.",
@@ -45,22 +61,6 @@
                 "React",
                 ".NET",
                 "ASP.NET"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/topdev0528/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
             ]
         },
         {
