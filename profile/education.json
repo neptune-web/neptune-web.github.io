@@ -3,7 +3,7 @@
         {
             "title": "Jun 2010 - May 2014",
             "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"McGill University, Montreal",
+            "cardSubtitle":"Universite de Bordeaux, Nouvelle-Aquitaine",
             "cardDetailedText": "CGPA - 9.5",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
@@ -12,7 +12,7 @@
         {
             "title": "Apr 2010",
             "cardTitle": "High School",
-            "cardSubtitle":"Jack James High School, Calgary",
+            "cardSubtitle":"St Bede's School, Eastbourne",
             "cardDetailedText": "Marks - 95%"
         }
     ]
